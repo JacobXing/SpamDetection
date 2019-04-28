@@ -1,0 +1,10 @@
+{
+    "count_vector":
+    {
+        "ngram_range": [1, 2],
+        "min_doc_frequency": 0,
+        "max_doc_frequency": 1
+    }
+
+
+}
